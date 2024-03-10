@@ -1,0 +1,12 @@
+[includeIf "gitdir:/Users/legend/projects/secret/"]
+	path = /Users/legend/projects/secret/.gitconfig-sec
+
+[includeIf "gitdir:/Users/legend/projects/personal/"]
+	path = /Users/legend/projects/personal/.gitconfig-per
+
+
+[core]
+	excludesfiles = ~/.gitignore
+
+[init]
+	defaultBranch = main
