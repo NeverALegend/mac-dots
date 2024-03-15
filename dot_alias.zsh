@@ -52,7 +52,7 @@ alias sec='cd /Users/legend/projects/secret' #secret Github
 alias per='cd /Users/legend/projects/personal' # personal Github
 alias test='cd /Users/legend/projects/test_play' # test playground
 alias dots='cd /Users/legend/.config' # dots general area
-alias notes='cd /Users/legend/alter-ego' # obsidian vault
+alias ego='cd /Users/legend/alter-ego' # obsidian vault
 
 	#Backup Data aliases
 
