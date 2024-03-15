@@ -28,7 +28,7 @@ ra() {
 
 function in {
     local pkg="$1"
-    if brew -Si "$pkg" &>/dev/null ; then
+    if brew search "$pkg" &>/dev/null ; then
         brew install "$pkg"
     fi
 }
